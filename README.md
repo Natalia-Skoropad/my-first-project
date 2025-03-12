@@ -1,2 +1,3 @@
 # my-first-project
-Studying courses
+
+This is my first project
